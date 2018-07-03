@@ -1,1 +1,3 @@
-function takeAnumber()
+function takeAnumber(n) {
+  
+}
